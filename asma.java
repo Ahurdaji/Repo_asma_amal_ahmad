@@ -1,1 +1,1 @@
-this file for ahmad 
+class B {} 
